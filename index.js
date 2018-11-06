@@ -1,3 +1,3 @@
 
 
-console.log("Test push for demo");
+console.log("Test push for demo2");
